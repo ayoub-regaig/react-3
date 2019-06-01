@@ -31,3 +31,25 @@
     transform: rotate(360deg);
   }
 }
+
+.program {
+  background-color: lightblue;
+  display: inline-block;
+  margin: 20px
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+}
+
+.City {
+  display: inline-block;
+  margin: 20px;
+  
+}
+
+.description {
+  display: flex;
+  justify-content: center
+}
